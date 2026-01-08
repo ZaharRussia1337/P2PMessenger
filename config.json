@@ -1,0 +1,5 @@
+{
+	"TcpPort": 0,
+	"UdpPort": 50000,
+	"BroadcastAddress": "255.255.255.255"
+}
